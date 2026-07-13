@@ -1,0 +1,13 @@
+{
+  "events": [
+    { "id": 1, "title": "Inteligencia Artificial en la Educación", "type": "Conferencia", "date": "2026-08-22", "time": "10:00", "location": "Aula Magna", "speaker": "Dra. Ana Torres", "capacity": 120, "description": "Aplicaciones responsables de la inteligencia artificial en el aprendizaje universitario." },
+    { "id": 2, "title": "Taller de Design Thinking", "type": "Taller", "date": "2026-08-29", "time": "15:00", "location": "Laboratorio 3", "speaker": "Mg. Carlos Mendoza", "capacity": 35, "description": "Metodologías para resolver retos centrados en las personas." },
+    { "id": 3, "title": "Sostenibilidad y Campus Verde", "type": "Seminario", "date": "2026-09-05", "time": "11:00", "location": "Auditorio B", "speaker": "Ing. Lucía Ramos", "capacity": 80, "description": "Iniciativas para construir comunidades universitarias sostenibles." }
+  ],
+  "participants": [
+    { "id": 1, "name": "María Fernanda López", "email": "maria.lopez@universidad.edu.pe", "role": "Estudiante", "career": "Ingeniería de Sistemas" },
+    { "id": 2, "name": "José Antonio Ramos", "email": "jose.ramos@universidad.edu.pe", "role": "Estudiante", "career": "Administración" },
+    { "id": 3, "name": "Carmen Huamán", "email": "carmen.huaman@universidad.edu.pe", "role": "Docente", "career": "Ciencias de la Salud" }
+  ],
+  "enrollments": []
+}
